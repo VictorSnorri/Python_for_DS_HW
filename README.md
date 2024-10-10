@@ -1,5 +1,3 @@
-# Python_for_data_science
-
 # Table of Contents
 
 week 1)
@@ -41,7 +39,7 @@ week 1)
 
 week 2)
 
-# Python - More Functions and Data Filtering
+# Python - Functions and Data Filtering
 
     Exercise 1: FizzBuzz
     Exercise 2: Basic Data Filtering
