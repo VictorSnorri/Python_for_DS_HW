@@ -2,7 +2,8 @@
 
 # Table of Contents
 
-week 1
+week 1)
+
 # Python - Syntax and Variables
     Exercise 1: Print a Greeting
     Exercise 2: Basic Arithmetic
@@ -36,3 +37,13 @@ week 1
     Exercise 15: List Comprehension
     Exercise 16: Nested Data Structures
     Exercise 17: Simple Calculator
+
+
+week 2)
+
+# Python - More Functions and Data Filtering
+
+    Exercise 1: FizzBuzz
+    Exercise 2: Basic Data Filtering
+    Exercise 3: Simple To-Do List
+    Exercise 4: Temperature Converter
