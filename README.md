@@ -3,7 +3,7 @@
 <br>
 <br>
 
-# Week 1 - Python - Basics
+# Week 1) - Python - Basics
 ### Python - Syntax and Variables
 - **Exercise 1: Print a Greeting**
 - **Exercise 2: Basic Arithmetic**
